@@ -1,1 +1,1 @@
-# manifests for deplying locust on k8s clusetr 
+# manifests for deplying locust on k8s cluster 
