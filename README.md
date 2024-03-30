@@ -1,1 +1,1 @@
-# Locust-on-k8s
+# manifests for deplying locust on k8s clusetr 
